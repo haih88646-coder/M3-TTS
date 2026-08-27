@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (do not commit large files)
+*.wav
+*.mp3
+*.flac
+*.zip
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Temporary
+*.tmp
+*.log
